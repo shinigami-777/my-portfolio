@@ -2,7 +2,7 @@
   <div>
     <Navbar />
     <div id="app">
-      <Nuxt />
+      <NuxtPage />
     </div>
   </div>
 </template>
